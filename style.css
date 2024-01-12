@@ -1,0 +1,31 @@
+.heading
+{
+font-size : 23px;
+width: 100%;
+margin: 0px;
+box-shadow: 7px 7px 8px black ;
+background-color: purple;
+color:cyan;
+}
+.mr-span
+{
+font-size: 15px;
+color: cyan;
+}
+.mr-div{
+    color:aqua;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+}
+canvas{
+    border: 5px solid antiquewhite ;
+    border-radius: 20px;
+    box-shadow: 7px 7px 8px black;
+}
+body {
+    background-size: cover;
+}
